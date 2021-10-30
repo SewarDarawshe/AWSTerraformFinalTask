@@ -61,7 +61,7 @@ run the code:
  
  - ####  In your AWS load balancer you'll see the new ALB,chick on the DNS address and open in a browser 
  
-<img width="700" alt="screenshot" src="6.png">
+<img width="700" alt="screenshot" src="66.png">
 
    
   

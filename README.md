@@ -1,7 +1,4 @@
 # AWSTerraformFinalTask
-
-
-### Requierments :
 A Terraform code that produces the following AWS resources:
 (In the default VPC)
 - 2 Instances (t2.micro) - with NGINX running on each.
